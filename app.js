@@ -23,3 +23,4 @@ function calculate() {
   document.getElementById("total-expense").innerText = calculateTotal;
 
 }
+console.log("hello world")
